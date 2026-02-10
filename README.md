@@ -1,4 +1,4 @@
-# 🚀 AI Code Reviewer
+# 🚀 ReviewGPT –  AI Powered Code Quality Analyzer
 
 An AI-powered full-stack web application that reviews source code and provides improvement suggestions using **Google Generative AI**.  
 Built with a modern developer-friendly interface including syntax highlighting and Markdown-rendered feedback.
@@ -50,5 +50,5 @@ Built with a modern developer-friendly interface including syntax highlighting a
 ### 1. Clone the Repository
 
 ```bash
-https://github.com/sidd51/ai-code-reviewer
+https://github.com/sidd51/ReviewGPT
 cd ai-code-reviewer
